@@ -24,7 +24,7 @@ python3 eval.py
 python3 test_code.py 
 
 ## Results:
-After being trained on 102 images, 
+After being trained on 95 images, 
 * mAP : 0.86
 
 ## References
